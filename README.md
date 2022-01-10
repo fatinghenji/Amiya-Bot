@@ -36,17 +36,17 @@ Project Logo Painted by [kerryst](http://space.bilibili.com/8368479/)
 
 ## 文档
 
-Amiya-Bot 的所有说明均可查阅本项目的 [官方网站](https://www.amiya.cn) (www.amiya.cn)
+Amiya-Bot 的所有说明均可查阅本项目的 [官方网站](https://www.amiyabot.com) (www.amiyabot.com)
 
 #### 使用说明
 
-- [功能菜单](https://www.amiya.cn/blog/function.html)
-- [维护说明](https://www.amiya.cn/docs/maintain.html)
+- [功能菜单](https://www.amiyabot.com/blog/function.html)
+- [维护说明](https://www.amiyabot.com/docs/maintain.html)
 
 #### 部署说明
 
-- [通过源码部署 Amiya](https://www.amiya.cn/docs/deployByCode.html)
-- [通过安装包部署 Amiya](https://www.amiya.cn/docs/deployByExe.html)
+- [通过源码部署 Amiya](https://www.amiyabot.com/docs/deployByCode.html)
+- [通过安装包部署 Amiya](https://www.amiyabot.com/docs/deployByExe.html)
 
 ## 贡献
 
@@ -63,7 +63,7 @@ Amiya-Bot 的所有说明均可查阅本项目的 [官方网站](https://www.ami
     - [mirai-console](https://github.com/mamoe/mirai-console)
     - [mirai-api-http](https://github.com/project-mirai/mirai-api-http)
 - 数据及语音资源
-    - [ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)
+    - [Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)
     - [PRTS](http://prts.wiki/)
 - 信息推送
     - [明日方舟官方微博](https://m.weibo.cn/u/6279793937)
